@@ -54,3 +54,11 @@ Fetch changes from the remote and merges current branch with remote.
 ```bash
 git push pull
 ```
+
+# cmd 8: Merge branches
+
+Join the specified branch into the current working branch.
+
+```bash
+git merge [branch-name]
+```
