@@ -39,10 +39,10 @@ Push changes from local repo to remote. It will also create a new branch in remo
 git push --set-upstream origin [branch-name]
 ```
 
-# cmd 6: Push changes to remote
+# cmd 6: Fetch changes from remote
 
 Fetch changes from the remote. It does not update tracking branches.
 
 ```bash
-git push --set-upstream origin [branch-name]
+git push fetch
 ```
