@@ -70,3 +70,11 @@ To check the current working branch
 ```bash
 git branch -v
 ```
+
+# cmd 10: Revert changes
+
+To remove the changes added after git add 
+
+```bash
+git reset
+```
