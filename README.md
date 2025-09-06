@@ -47,7 +47,7 @@ Fetch changes from the remote. It does not update tracking branches.
 git push fetch
 ```
 
-# cmd 6: Pull changes from remote
+# cmd 7: Pull changes from remote
 
 Fetch changes from the remote and merges current branch with remote.
 
