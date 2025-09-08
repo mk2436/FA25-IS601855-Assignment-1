@@ -86,3 +86,8 @@ git reset
 ```bash
 ls -al
 ```
+
+# cmd 12: Change directory
+```bash
+cd [path-to-directory]
+```
