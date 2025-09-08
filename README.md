@@ -97,3 +97,11 @@ cd [path-to-directory]
 ```bash
 cat [path-to-file]
 ```
+
+# cmd 14: Edit a file
+```bash
+nano [path-to-file]
+```
+```bash
+vi [path-to-file]
+```
