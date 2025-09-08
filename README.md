@@ -105,3 +105,9 @@ nano [path-to-file]
 ```bash
 vi [path-to-file]
 ```
+
+
+# cmd 15: Remove a file
+```bash
+rm [path-to-file]
+```
