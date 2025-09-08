@@ -91,3 +91,9 @@ ls -al
 ```bash
 cd [path-to-directory]
 ```
+
+# cmd 13: Print the contents of a file
+
+```bash
+cat [path-to-file]
+```
