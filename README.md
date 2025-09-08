@@ -78,3 +78,11 @@ To remove the changes added after git add
 ```bash
 git reset
 ```
+
+## Linux commands
+
+# cmd 11: List of files in current directory
+
+```bash
+ls -al
+```
