@@ -127,3 +127,11 @@ Opens the file in Vi/Vim text editor
 ```bash
 vi [path-to-file]
 ```
+
+## cmd 15: Remove a file
+
+Deletes the specified file permanently
+
+```bash
+rm [path-to-file]
+```
