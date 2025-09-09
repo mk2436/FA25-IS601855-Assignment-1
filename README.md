@@ -70,3 +70,21 @@ Lists all branches with their last commit and highlights the current branch
 ```bash
 git branch -v
 ```
+
+## cmd 10: Revert changes
+
+To remove the changes added after git add
+
+Unstage files
+```bash
+git reset
+```
+Unstage a specific file
+```bash
+git reset [file-name]
+```
+
+Unstage files and discard changes
+```bash
+git reset --hard
+```
