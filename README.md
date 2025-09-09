@@ -22,3 +22,11 @@ git branch [branch-name]
 ```bash
 git add [path-to-file]
 ```
+
+## cmd 4: Commit changes in the local repo
+
+Creates a new commit that includes the changes made to the staging area
+
+```bash
+git commit -m [comment]
+```
