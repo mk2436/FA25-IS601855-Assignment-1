@@ -89,7 +89,7 @@ Unstage files and discard changes
 git reset --hard
 ```
 
-#Linux commands
+# Linux commands
 
 ## cmd 11: List of files in current directory
 
@@ -105,4 +105,12 @@ Changes the current working directory to the specified path
 
 ```bash
 cd [path-to-directory]
+```
+
+## cmd 13: Print the contents of a file
+
+Displays the contents of the specified file in the terminal
+
+```bash
+cat [path-to-file]
 ```
