@@ -30,3 +30,11 @@ Creates a new commit that includes the changes made to the staging area
 ```bash
 git commit -m [comment]
 ```
+
+## cmd 5: Push changes to remote
+
+Push changes from local repo to remote. It will also create a new branch in remote.
+
+```bash
+git push --set-upstream origin [branch-name]
+```
