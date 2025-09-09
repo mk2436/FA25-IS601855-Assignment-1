@@ -88,3 +88,13 @@ Unstage files and discard changes
 ```bash
 git reset --hard
 ```
+
+Linux commands
+
+## cmd 11: List of files in current directory
+
+Lists all files (including hidden ones) in the current directory, with detailed information (permissions, owner, size, modification time).
+
+```bash
+ls -al
+```
