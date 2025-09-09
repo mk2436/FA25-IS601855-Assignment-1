@@ -46,3 +46,11 @@ Fetch changes from the remote. It does not update tracking branches.
 ```bash
 git fetch
 ```
+
+## cmd 7: Pull changes from remote
+
+Fetch changes from the remote and merges current branch with remote.
+
+```bash
+git pull
+```
