@@ -89,7 +89,7 @@ Unstage files and discard changes
 git reset --hard
 ```
 
-Linux commands
+#Linux commands
 
 ## cmd 11: List of files in current directory
 
@@ -97,4 +97,12 @@ Lists all files (including hidden ones) in the current directory, with detailed 
 
 ```bash
 ls -al
+```
+
+## cmd 12: Change directory
+
+Changes the current working directory to the specified path
+
+```bash
+cd [path-to-directory]
 ```
