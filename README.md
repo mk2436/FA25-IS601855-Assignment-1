@@ -16,3 +16,9 @@ Creates a new branch in the local git repo. It includes all the files from the c
 ```bash
 git branch [branch-name]
 ```
+
+## cmd 3: Add files from the local repo to staging area
+
+```bash
+git add [path-to-file]
+```
