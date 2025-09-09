@@ -8,3 +8,11 @@ Downloads a remote repository from Git to your local system, including all the f
 ```bash
 git clone [url]
 ```
+
+## cmd 2: Create a new branch
+
+Creates a new branch in the local git repo. It includes all the files from the current branch.
+
+```bash
+git branch [branch-name]
+```
