@@ -114,3 +114,16 @@ Displays the contents of the specified file in the terminal
 ```bash
 cat [path-to-file]
 ```
+
+## cmd 14: Edit a file
+
+Opens the file in Nano text editor
+
+```bash
+nano [path-to-file]
+```
+Opens the file in Vi/Vim text editor
+
+```bash
+vi [path-to-file]
+```
