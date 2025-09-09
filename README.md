@@ -62,3 +62,11 @@ Join the specified branch into the current working branch.
 ```bash
 git merge [branch-name]
 ```
+
+## cmd 9: Check commits of branches
+
+Lists all branches with their last commit and highlights the current branch
+
+```bash
+git branch -v
+```
